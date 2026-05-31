@@ -48,7 +48,9 @@ MatrixMaster/
 ## 📸 Screeshots
 <img width="452" height="977" alt="image" src="https://github.com/user-attachments/assets/8fecd046-92f4-4037-8fe9-e8a81aedbbe3" />
 <img width="452" height="977" alt="image" src="https://github.com/user-attachments/assets/7ff4f3ca-0963-473b-880a-3ed6310121a2" />
+
 ---
+
 ## 🚀 How to Run
 - Open the project in Qt Creator.
 - Ensure the Qt Quick / Qml modules are installed.
